@@ -1,7 +1,7 @@
 # Power_BI_Ecommerce_Sales_Insights
 # Sales Insights in the Ecommerce domain
 
-[Link to Interactive dashboard]("https://app.powerbi.com/view?r=eyJrIjoiODQ4MDdiMTUtZDAzOC00M2IyLWE5OWMtZjNjNjFlY2FhNmQ2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9")
+[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiODQ4MDdiMTUtZDAzOC00M2IyLWE5OWMtZjNjNjFlY2FhNmQ2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Greetings, everyone!
 
